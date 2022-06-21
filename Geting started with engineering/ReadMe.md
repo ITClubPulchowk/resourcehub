@@ -12,5 +12,5 @@ The speakers were:
 - Day 4: Tilak Chad - Low Level System Design
 - Day 5: Shishir Subedi - Cyber Security
 - Day 6: Kushal Shrestha -  Graphics Design
-- Day 7: Saurav Adhikari - Web Development & The Cloud
 - Day 8: Pawan Poudel - Electronics Engineering
+- Day 7: Saurav Adhikari - Web Development & The Cloud
