@@ -6,4 +6,5 @@ The speakers were:
     Day 2: Anusandhan Pokhrel - UI/UX Design
     Day 3: Veshraj Ghimire - Cybersecurity
     Day 4: Supriya Khadaka - ML/AI
-
+    Day 5: Sagar Timalsina - Web Development
+    Day 6: Vishal Pokharel - Blockchain
